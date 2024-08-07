@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/dkc/mesaj_ws/build/py_topic",
+        "/home/dkc/mesaj_ws/install/py_topic/lib/python3.10/site-packages",
+        "/home/dkc/mesaj_ws/src/build/py_topic",
+        "/home/dkc/mesaj_ws/src/install/py_topic/lib/python3.10/site-packages",
+        "/home/dkc/ros2_ws/build/my_robot_controller",
+        "/home/dkc/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/dkc/mesaj_ws/build/py_topic",
+        "/home/dkc/mesaj_ws/install/py_topic/lib/python3.10/site-packages",
+        "/home/dkc/mesaj_ws/src/build/py_topic",
+        "/home/dkc/mesaj_ws/src/install/py_topic/lib/python3.10/site-packages",
+        "/home/dkc/ros2_ws/build/my_robot_controller",
+        "/home/dkc/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
