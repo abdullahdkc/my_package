@@ -310,8 +310,8 @@ message(STATUS "Execute custom install script")
 
 # begin of custom install code
 
-# install(DIRECTORY "launch" "DESTINATION" "share/")
-ament_cmake_symlink_install_directory("/home/dkc/dev_ws/src/my_package" DIRECTORY "launch" "DESTINATION" "share/")
+# install(DIRECTORY "launch" "DESTINATION" "share/my_package")
+ament_cmake_symlink_install_directory("/home/dkc/dev_ws/src/my_package" DIRECTORY "launch" "DESTINATION" "share/my_package")
 
 # install(FILES "/home/dkc/dev_ws/build/my_package/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/my_package" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 ament_cmake_symlink_install_files("/home/dkc/dev_ws/src/my_package" FILES "/home/dkc/dev_ws/build/my_package/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/my_package" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")

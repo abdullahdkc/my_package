@@ -1,5 +1,5 @@
-/home/dkc/dev_ws/install/my_package/share//launch/listener.launch.py
-/home/dkc/dev_ws/install/my_package/share//launch/talker.launch.py
+/home/dkc/dev_ws/install/my_package/share/my_package/launch/listener.launch.py
+/home/dkc/dev_ws/install/my_package/share/my_package/launch/talker.launch.py
 /home/dkc/dev_ws/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
 /home/dkc/dev_ws/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
 /home/dkc/dev_ws/install/my_package/share/my_package/environment/ament_prefix_path.sh
